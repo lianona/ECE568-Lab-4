@@ -1,0 +1,4 @@
+#guanjing, 999712814，jinghan.guan@mail.utoronto.ca
+
+
+For part4, the client's profile is retrieved using get()function, then written to profile.out using output_helper() function in ece568helper.py. After that, the profile.out is uploaded to google drive using drive.api with file scope. 
